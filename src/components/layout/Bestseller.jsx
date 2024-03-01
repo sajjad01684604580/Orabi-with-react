@@ -8,9 +8,9 @@ import newone from '../../assets/ourone.png'
 import Badge from '../Badge'
 import Paragraph from '../Paragraph'
 import Price from '../Price'
-
-
-
+import { FaHeart } from "react-icons/fa";
+import { LuRefreshCw } from "react-icons/lu";
+import { FaShoppingCart } from "react-icons/fa";
 import newtwo from '../../assets/ourtwo.png'
 import newthree from '../../assets/ourthree.png'
 import newfour from '../../assets/ourfour.png'
