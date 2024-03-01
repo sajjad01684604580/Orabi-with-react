@@ -1,10 +1,10 @@
 import React from 'react'
 import Container from '../Container'
 import Flex from '../Flex'
-import { PiNumberTwoBold } from "react-icons/pi";
+
 import Paragraph from '../Paragraph';
 import Number from '../icons/Number';
-import { MdLocalShipping } from "react-icons/md";
+
 import Truck from '../icons/Truck';
 import Return from '../icons/Return';
 
