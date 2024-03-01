@@ -6,7 +6,8 @@ import List from '../List'
 import Paragraph from '../Paragraph'
 import Image from '../Image'
 import logo from '../../assets/logo.png'
-import { FaFacebookF,FaWhatsapp,FaInstagram } from "react-icons/fa";
+import { FaFacebookF,FaWhatsapp } from "react-icons/fa";
+import {FaInstagram } from "react-icons/fa";
 
 const Footer = () => {
   return (
