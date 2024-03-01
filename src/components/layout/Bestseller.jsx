@@ -9,7 +9,7 @@ import Badge from '../Badge'
 import Paragraph from '../Paragraph'
 import Price from '../Price'
 
-import { LuRefreshCw } from "react-icons/lu";
+
 
 import newtwo from '../../assets/ourtwo.png'
 import newthree from '../../assets/ourthree.png'

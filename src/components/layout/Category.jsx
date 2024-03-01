@@ -4,7 +4,7 @@ import Flex from '../Flex'
 import Bar from '../icons/Bar'
 import Paragraph from '../Paragraph'
 
-import { IoMdArrowDropdown } from "react-icons/io";
+
 const Category = () => {
   return (
     <section className='py-[45px] bg-categorybg border-y border-border'>
