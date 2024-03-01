@@ -7,9 +7,9 @@ import newone from '../../assets/newone.png'
 import Badge from '../Badge'
 import Paragraph from '../Paragraph'
 import Price from '../Price'
-import { FaHeart } from "react-icons/fa";
+import { FaHeart,FaShoppingCart } from "react-icons/fa";
 import { LuRefreshCw } from "react-icons/lu";
-import { FaShoppingCart } from "react-icons/fa";
+
 import newtwo from '../../assets/newtwo.png'
 import newthree from '../../assets/newthree.png'
 import newfour from '../../assets/newfour.png'

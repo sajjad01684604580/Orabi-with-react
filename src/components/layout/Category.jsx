@@ -3,10 +3,10 @@ import Container from '../Container'
 import Flex from '../Flex'
 import Bar from '../icons/Bar'
 import Paragraph from '../Paragraph'
-import { FaSearch } from "react-icons/fa";
+
 import { IoMdArrowDropdown } from "react-icons/io";
-import { FaUser } from "react-icons/fa";
-import { FaShoppingCart } from "react-icons/fa";
+import { FaUser,FaShoppingCart,FaSearch} from "react-icons/fa";
+
 const Category = () => {
   return (
     <section className='py-[45px] bg-categorybg border-y border-border'>
