@@ -19,9 +19,12 @@ export default {
       // font-family end
       // color start
       colors: {
+        'primarycolor': '#262626',
         'listcolor': '#767676',
         'categorybg': '#F5F5F3',
         'border': '#F0F0F0',
+        'dropmenucolr': '#FFFFFF',
+        
       },
       // color end
     },

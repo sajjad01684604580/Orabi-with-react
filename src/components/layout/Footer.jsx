@@ -51,7 +51,8 @@ const Footer = () => {
                             </ul>
                         </div>
                         <div className="">
-                        <Heading className="font-dmsans text-base font-bold pb-[16px]" as="h5" text="(052) 611-5711company@domain.com"/>
+                        <Paragraph className="font-dmsans text-base font-bold pr-[248px] pb-3.5" text="(052) 611-5711 company@domain.com"/>
+                        
 
                         <Paragraph className="text-[#6D6D6D] font-dmsans font-normal text-[14px]" text="575 Crescent Ave. Quakertown, PA 18951"/>
                         </div>
